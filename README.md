@@ -21,7 +21,7 @@ Users can input relevant health parameters, and the system will provide a predic
   - `Diabetes Pedigree Function Value`
   - `Age of the Person`
 - **Output**: A prediction indicating the likelihood of diabetes.
-- ![Screenshot 2024-11-16 103728](https://github.com/user-attachments/assets/6a98383e-feba-4116-8278-7979a41a7e7d)
+- ![Screenshot 2024-11-16 103651](https://github.com/user-attachments/assets/5772b37f-7005-4d03-92e2-bad7b5c91021)
 
 
 
@@ -66,7 +66,7 @@ Users can input relevant health parameters, and the system will provide a predic
     - `D2`
     - `PPE`
 - **Output**: A prediction indicating the likelihood of Parkinson's disease.
-- ![Screenshot 2024-11-16 103651](https://github.com/user-attachments/assets/5772b37f-7005-4d03-92e2-bad7b5c91021)
+- ![Screenshot 2024-11-16 103728](https://github.com/user-attachments/assets/6a98383e-feba-4116-8278-7979a41a7e7d)
 
 ## Usage
 1. Open the application in your browser at the specified URL.
