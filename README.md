@@ -5,9 +5,6 @@ The **Multiple Disease Prediction System** is a web application developed using 
 1. **Diabetes**
 2. **Heart Disease**
 3. **Parkinson's Disease**
-![Screenshot 2024-11-16 103728](https://github.com/user-attachments/assets/6a98383e-feba-4116-8278-7979a41a7e7d)
-![Screenshot 2024-11-16 103705](https://github.com/user-attachments/assets/a88153a9-938f-4fc8-ade7-0587f609a2df)
-![Screenshot 2024-11-16 103651](https://github.com/user-attachments/assets/5772b37f-7005-4d03-92e2-bad7b5c91021)
 
 Users can input relevant health parameters, and the system will provide a prediction for each condition.
 
@@ -24,6 +21,9 @@ Users can input relevant health parameters, and the system will provide a predic
   - `Diabetes Pedigree Function Value`
   - `Age of the Person`
 - **Output**: A prediction indicating the likelihood of diabetes.
+- ![Screenshot 2024-11-16 103728](https://github.com/user-attachments/assets/6a98383e-feba-4116-8278-7979a41a7e7d)
+
+
 
 ### 2. Heart Disease Prediction
 - **Input Fields**:
@@ -41,6 +41,8 @@ Users can input relevant health parameters, and the system will provide a predic
   - `Major Vessels Colored by Fluoroscopy`
   - `Thalassemia`
 - **Output**: A prediction indicating the likelihood of heart disease.
+- ![Screenshot 2024-11-16 103705](https://github.com/user-attachments/assets/a88153a9-938f-4fc8-ade7-0587f609a2df)
+
 
 ### 3. Parkinson's Disease Prediction
 - **Input Fields**:
@@ -64,6 +66,7 @@ Users can input relevant health parameters, and the system will provide a predic
     - `D2`
     - `PPE`
 - **Output**: A prediction indicating the likelihood of Parkinson's disease.
+- ![Screenshot 2024-11-16 103651](https://github.com/user-attachments/assets/5772b37f-7005-4d03-92e2-bad7b5c91021)
 
 ## Usage
 1. Open the application in your browser at the specified URL.
