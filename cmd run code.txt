@@ -1,0 +1,1 @@
+streamlit run "C:/Users/Navaneeth G/OneDrive/Desktop/MACHINE_LEARNING 24/APP.py"
